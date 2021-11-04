@@ -7,7 +7,7 @@ import pandas as pd
 #data = ts.get_monthly_adjusted('MSFT')
 
 
-df = pd.read_csv("C:\more.csv")
+df = pd.read_csv("more.csv")
 
 st.dataframe(df)
 
